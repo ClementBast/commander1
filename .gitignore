@@ -1,0 +1,8 @@
+events/*
+!events/.gitkeep
+resultats/*
+!resultats/.gitkeep
+notebooks/.ipynb_checkpoints/
+
+# donnees lourdes : fournies par le prof, pas a pousser
+data/
